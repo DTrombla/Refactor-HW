@@ -200,6 +200,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Just to tidy up the top a lil */
 @media screen and (max-width:1034px){
     header{
         padding-bottom: 70px;
